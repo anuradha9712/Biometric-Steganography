@@ -14,6 +14,7 @@ This project is divided into 4 phases:
 - Data Extraction 
 
 ![block_diagram](https://github.com/anuradha9712/Biometric-Steganography/blob/master/images/diag.png)
+
 ### Step 1: Feature Extraction
 Here hand geometric features are extracted by following 3 steps.
 - Image Acquisition
@@ -26,11 +27,23 @@ Here hand geometric features are extracted by following 3 steps.
 - Gaussian filter had used to remove the background noise of the image 
 - Binary Image by Otsu Thresholding
 
+- ![](https://github.com/anuradha9712/Biometric-Steganography/blob/master/images/1.png)
+- ![](https://github.com/anuradha9712/Biometric-Steganography/blob/master/images/2.png)
+- ![](https://github.com/anuradha9712/Biometric-Steganography/blob/master/images/3.png)
+![](https://github.com/anuradha9712/Biometric-Steganography/blob/master/images/4.png)
+![](https://github.com/anuradha9712/Biometric-Steganography/blob/master/images/6.png)
+
 #### Feature Extraction
 - Trace contours of image used to plot all the contours point and find convex hull 
 - Find tip points
 - Find centre point of the hand 
 - Euclidean distance is calculated between tip points & center point of hand image.
+![](https://github.com/anuradha9712/Biometric-Steganography/blob/master/images/7.png)
+![](https://github.com/anuradha9712/Biometric-Steganography/blob/master/images/8.png)
+![](https://github.com/anuradha9712/Biometric-Steganography/blob/master/images/9.png)
+![](https://github.com/anuradha9712/Biometric-Steganography/blob/master/images/10.png)
+![](https://github.com/anuradha9712/Biometric-Steganography/blob/master/images/12.png)
+
 
 ### Step 2:  Key Generation
 Key has generated in four ways -
