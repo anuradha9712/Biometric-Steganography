@@ -29,7 +29,6 @@ Here hand geometric features are extracted by following 3 steps.
 
 ![](https://github.com/anuradha9712/Biometric-Steganography/blob/master/images/1.png)
 ![](https://github.com/anuradha9712/Biometric-Steganography/blob/master/images/2.png)
-![](https://github.com/anuradha9712/Biometric-Steganography/blob/master/images/3.png)
 ![](https://github.com/anuradha9712/Biometric-Steganography/blob/master/images/4.png)
 ![](https://github.com/anuradha9712/Biometric-Steganography/blob/master/images/6.png)
 
@@ -40,9 +39,9 @@ Here hand geometric features are extracted by following 3 steps.
 - Euclidean distance is calculated between tip points & center point of hand image.
 
 
-![](https://github.com/anuradha9712/Biometric-Steganography/blob/master/images/7.png)
 ![](https://github.com/anuradha9712/Biometric-Steganography/blob/master/images/8.png)
 ![](https://github.com/anuradha9712/Biometric-Steganography/blob/master/images/9.png)
+![](https://github.com/anuradha9712/Biometric-Steganography/blob/master/images/7.png)
 ![](https://github.com/anuradha9712/Biometric-Steganography/blob/master/images/10.png)
 ![](https://github.com/anuradha9712/Biometric-Steganography/blob/master/images/12.png)
 
