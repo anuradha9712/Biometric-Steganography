@@ -13,6 +13,7 @@ This project is divided into 4 phases:
 - Data Embedding
 - Data Extraction 
 
+![block_diagram](https://github.com/anuradha9712/Biometric-Steganography/blob/master/images/diag.png)
 ### Step 1: Feature Extraction
 Here hand geometric features are extracted by following 3 steps.
 - Image Acquisition
