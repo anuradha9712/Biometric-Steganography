@@ -17,7 +17,7 @@ This project is divided into 6 phases:
 - Message Decryption
 
 
-![block_diagram](https://github.com/anuradha9712/Biometric-Steganography/blob/master/images/flow-chart1.PNG)
+![block_diagram](https://github.com/anuradha9712/Biometric-Steganography/blob/master/Face-Biometrics/Output/flow-chart2.PNG)
 
 ### Step 1: Face Feature Extraction
 Features extracted are :
@@ -27,11 +27,11 @@ Features extracted are :
 - Centre coordinates of the face
 - Centre coordinates of both the eyes
 
-![face-img](https://github.com/anuradha9712/Biometric-Steganography/blob/master/images/flow-chart1.PNG)
-![face-img](https://github.com/anuradha9712/Biometric-Steganography/blob/master/images/flow-chart1.PNG)
-![face-img](https://github.com/anuradha9712/Biometric-Steganography/blob/master/images/flow-chart1.PNG)
-![face-img](https://github.com/anuradha9712/Biometric-Steganography/blob/master/images/flow-chart1.PNG)
-![face-img](https://github.com/anuradha9712/Biometric-Steganography/blob/master/images/flow-chart1.PNG)
+![face-img](https://github.com/anuradha9712/Biometric-Steganography/blob/master/Face-Biometrics/face2.png)
+![face-img](https://github.com/anuradha9712/Biometric-Steganography/blob/master/Face-Biometrics/Output/result-image.png)
+![face-img](https://github.com/anuradha9712/Biometric-Steganography/blob/master/Face-Biometrics/Output/2.png)
+![face-img](https://github.com/anuradha9712/Biometric-Steganography/blob/master/Face-Biometrics/Output/5.png)
+![face-img](https://github.com/anuradha9712/Biometric-Steganography/blob/master/Face-Biometrics/Output/6.png)
 
 
 ### Step 2:  Key Generation
