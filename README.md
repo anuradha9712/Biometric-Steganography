@@ -1,4 +1,4 @@
-# Biometric-Steganography
+# Hand Biometric Steganography
 
 ## Steganography:
 It is the technique of concealing the secret data in to the one of the cover files, so that no one can suspect the data apart from the sender and receiver.
@@ -83,7 +83,7 @@ Steps for LSB data insertion-
 - Stego-image has been generated which contains secret message embedded within cover image.
 
 Cover image: 
-![Stego cover image](https://github.com/anuradha9712/Biometric-Steganography/blob/master/images/8.png)
+![Stego cover image](https://github.com/anuradha9712/Biometric-Steganography/blob/master/images/source_img.png)
 
 ### Step 5: Stego-image Encryption 
 Encrypted stego-image using AES Cryptography technique.
