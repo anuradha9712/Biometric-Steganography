@@ -27,7 +27,7 @@ Features extracted are :
 - Centre coordinates of the face
 - Centre coordinates of both the eyes
 
-![face-img](https://github.com/anuradha9712/Biometric-Steganography/blob/master/Face-Biometrics/face2.png)
+![face-img](https://github.com/anuradha9712/Biometric-Steganography/blob/master/Face-Biometrics/Output/original.png)
 ![face-img](https://github.com/anuradha9712/Biometric-Steganography/blob/master/Face-Biometrics/Output/result-image.png)
 ![face-img](https://github.com/anuradha9712/Biometric-Steganography/blob/master/Face-Biometrics/Output/2.png)
 ![face-img](https://github.com/anuradha9712/Biometric-Steganography/blob/master/Face-Biometrics/Output/5.png)
