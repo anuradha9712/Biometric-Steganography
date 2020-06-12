@@ -46,9 +46,10 @@ Key has generated in following ways -
 
 #### Unique key generation :
 Key= (Most Significant 2 Digits of p1) * 10 + (Least Significant 1 Digits p2)
+<br/>
 Where,
-P1 = variance of Hand points pairwise distance
-P2 = standard deviation of Hand points pairwise distance
+P1 = variance of Face points pairwise distance
+P2 = standard deviation of Face points pairwise distance
 
 ● From this unique key we will get unique pixel position to embed the secret data instead of embedding the data in sequential pixels of cover image. 
 
