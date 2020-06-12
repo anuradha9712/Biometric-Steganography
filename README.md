@@ -80,7 +80,10 @@ Steps for LSB data insertion-
 - Then the secret message which is in the form of bytes/characters are converted into the “ASCII” values and then ASCII values are converted into an array of bits. 
 - A unique key which has generated from hand geometric features, based on this we start embedding the secret data
 - Here key will gives unique pixel position of cover image to embed the data least significant bit of particular image pixel of cover object. Here 1 pixel = 1 byte.
-- Stego-image has been generated which contains secret message embedded within cover image
+- Stego-image has been generated which contains secret message embedded within cover image.
+
+Cover image: 
+![Stego cover image](https://github.com/anuradha9712/Biometric-Steganography/blob/master/images/8.png)
 
 ### Step 5: Stego-image Encryption 
 Encrypted stego-image using AES Cryptography technique.
