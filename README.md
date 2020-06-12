@@ -19,7 +19,7 @@ This project is divided into 8 phases:
 - Message Decryption
 
 
-![block_diagram](https://github.com/anuradha9712/Biometric-Steganography/blob/master/images/flow-chart1.png)
+![block_diagram](https://github.com/anuradha9712/Biometric-Steganography/blob/master/images/flow-chart1.PNG)
 
 ### Step 1: Feature Extraction
 Here hand geometric features are extracted by following 3 steps.
@@ -85,7 +85,7 @@ Steps for LSB data insertion-
 ### Step 5: Stego-image Encryption 
 Encrypted stego-image using AES Cryptography technique.
 
-![Encrypted Stego image](https://github.com/anuradha9712/Biometric-Steganography/tree/master/images/aes.png)
+![Encrypted Stego image](https://github.com/anuradha9712/Biometric-Steganography/blob/master/AES_encrypted_image.PNG)
 
 ### Step 6: Stego-image Decryption 
 - Decrypted the encrypted stego-image using AES using 128 bits key. 
